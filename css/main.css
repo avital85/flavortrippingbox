@@ -1,5 +1,10 @@
-body {
+body{
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
 
+head .page-top {
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-style: normal;
 }
 
 section {
@@ -17,4 +22,14 @@ section h3.section-subheading {
   font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
   font-style: normal;
   line-height: 26px
+}
+
+section#contact {
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-style: normal;
+  color: white;
+}
+
+.navbar-default .navbar-brand {
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
